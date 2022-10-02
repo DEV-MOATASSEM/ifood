@@ -105,7 +105,7 @@ nav li a{
     box-sizing: border-box;
 }
 .card img{
-    width: 100%;
+    width: 300px;
     height: 300px;
     object-fit: cover;
     display: block;
@@ -172,13 +172,13 @@ margin-top: 50px;
     object-fit: cover;
     display: block;
     
-    padding: 10%;
+    padding: 7%;
 
 }
 .cardm .card-contentm{
     line-height: 1.5;
     font-size: 0.9em;
-    padding: 15px;
+    padding: 0% 7% 7% 7%;
     
     
 }
@@ -214,9 +214,9 @@ margin-top: 50px;
   .button input{
     background-color: #2186d4;
     width: 100%;
-    margin-top: 15px;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     border: none;
     border-radius: 8px;
     font-weight: bold;
