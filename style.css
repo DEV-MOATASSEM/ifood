@@ -50,7 +50,7 @@ nav li a{
     height: 100vh;
     background-size: cover;
     background-attachment: fixed;
-
+    width: 100%;
 }
 .ahero .contenth{
     margin: auto;
