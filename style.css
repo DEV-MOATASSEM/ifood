@@ -143,6 +143,8 @@ nav li a{
     text-align: justify;
     text-justify: inter-word;
 }
+
+
 .meals{
 background-color:#282d31;
 margin-top: 50px;
@@ -175,9 +177,9 @@ margin-top: 50px;
     padding-top: 30px;
     
 }
-/* .content .grid .card *{
+.content .grid .card *{
     box-sizing: border-box;
-} */
+}
 .cardm{
     background: #fafafa;
     box-shadow: 2px 2px 6px 0px rgba(230, 229, 229, 0.3);
