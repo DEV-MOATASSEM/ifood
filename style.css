@@ -244,10 +244,9 @@ margin-top: 50px;
 .footer-distributed .footer-left{
 	float: left;
 }
-
-#footer-logo{
-display: block;
-width: 100%;
+.footer .footer-distributed .footer-left #footer-logo a img{
+    display: block;
+    width: 100%;
 }
 
 /* Footer links */
@@ -264,6 +263,7 @@ width: 100%;
 	line-height: 2;
 	text-decoration: none;
 	color:  white;
+    
 }
 
 .footer-distributed .footer-company-name{
@@ -284,11 +284,11 @@ width: 100%;
 	width: 35px;
 	height: 35px;
 	cursor: pointer;
-	background-color:  #33383b;
+	color:  #33383b;
 	border-radius: 2px;
 
 	font-size: 20px;
-	color: #ffffff;
+	background-color: #ffffff;
 	text-align: center;
 	line-height: 35px;
 
